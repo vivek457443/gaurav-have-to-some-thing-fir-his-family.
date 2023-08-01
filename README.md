@@ -1,2 +1,2 @@
-# gaurav-have-to-some-thing-fir-his-family.
-hello my dear family
+# CODE FOR JAVA SCRIPT 
+HELOO..MY DEAR WORLD
